@@ -1,0 +1,23 @@
+.bs-example{
+    height: 420px;
+    width: 80%;
+    
+}
+.carousel-inner{
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 400px;
+    box-shadow: 0px 0px 10px 0px black;
+}
+.carousel-item img{
+    width: 150%;
+    height: 400px;
+}
+.linkcontr{
+    margin-top: -420px;
+    margin-right: 12px;
+    float: right;
+    width: 16%;
+    height: 400px;
+    box-shadow: 0px 0px 10px 0px black;
+}

@@ -1,0 +1,18 @@
+.footerbox{
+    width: 100%;
+    height: 107px;
+  
+}
+.footer{
+    width: 80%;
+    margin-left: 20px;
+    box-shadow: 0px 0px 10px 0px black;
+}
+.exlink{
+    float: right;
+    margin-top: -112px;
+    margin-right: -240px;
+    width: 20%;
+    height: 95px;
+    box-shadow: 0px 0px 10px 0px black;
+}

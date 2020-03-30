@@ -1,0 +1,30 @@
+.bar{
+    height: 60px;
+    width: 100%;
+    background-color: #2f4357;
+}
+.bar h1{
+    color: rgb(236, 38, 38);
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 3px;
+    padding-left: 40px;
+}
+.bar a{
+    text-align: center;
+    text-decoration: none;
+}
+.bar button{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding-right: 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.bar input{
+    float: right;
+    padding-right: 40px;
+    margin-right: 100px;
+    margin-top: -45px;
+    border-radius: 5px;
+}
